@@ -1,6 +1,4 @@
 ### About Me :
-<h3 align="center">Web Developer</h3>
-
 🌍 Hi! I'm based in **Vietnam** and currently a student at **FPT University**.  
 
 🔭 I'm currently the **Vice President** at **F-Code Club**.  
