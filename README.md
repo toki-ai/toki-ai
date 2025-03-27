@@ -1,8 +1,6 @@
 ### About Me :
 🌍 Hi! I'm based in **Vietnam** and currently a student at **FPT University**.  
 
-🔭 I'm currently the **Vice President** at **F-Code Club**.  
-
 🌱 I love to **explore new programming technologies**, always seeking to learn modern tools and frameworks.  
 
 🤝 I'm looking for like-minded individuals who share a passion for programming to connect, exchange ideas, and collaborate on exciting projects. Let's build something together!
