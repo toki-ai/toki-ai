@@ -1,5 +1,5 @@
 #### About Me :
-👋 Hi, I'm Anh Đào (Toki) 
+✌🏻 Hi, I'm Anh Đào (Toki) 
 
 I'm currently studying **Software Engineering**.  
 
@@ -10,7 +10,7 @@ I enjoy exploring new technologies and making friends with the same interests.
 
 #
 
-#### 🔧 Tech Focus
+#### ⌨️ Tech Focus
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -19,7 +19,7 @@ I enjoy exploring new technologies and making friends with the same interests.
 
 #
 
-#### 📫 Contact Me  
+#### 📍 Contact Me  
 📧 daopham.ta@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/daopham-ta/)  
 
